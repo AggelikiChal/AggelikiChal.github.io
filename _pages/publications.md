@@ -2,7 +2,7 @@
 permalink: /publications/
 ---
 
-## Conference Proceedings & Journal articles 
+<h2> Conference Proceedings & Journal articles </h2>
 
 - Antonis Antonopoulos, Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. **Completeness, approximability and exponential time results for counting problems with easy decision version**. Theoretical Computer Science 915: 55-73 (2022). <A href="https://www.sciencedirect.com/science/article/pii/S0304397522001256?via%3Dihub">link to paper</A>
 
@@ -18,7 +18,7 @@ Conference on Theory and Applications of Models of Computation, 2020. <A href="h
 - Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. **Completeness results for counting problems with easy decision**. Proceedings of the  10th International Conference in Algorithms and Complexity, 2017. <A href="https://link.springer.com/chapter/10.1007/978-3-319-57586-5_6">link to paper</A>
 
 
-## Preprints and submissions 
+<h2> Preprints and submissions </h2>
 
 - Antonis Achilleos and Aggeliki Chalki. **Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes**. <A href="https://arxiv.org/abs/2304.10334">link to arxiv</A>
 
