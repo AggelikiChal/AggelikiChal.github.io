@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Scientific Managment & Activities"
+    url: /scientific_managment_and_activities/

@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+Marios Papachristou:
+  name        : "Aggeliki Chalkis"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://aggelikichal.github.io/posts/"
+
