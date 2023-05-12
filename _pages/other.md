@@ -1,5 +1,5 @@
 ---
-permalink: /other/
+permalink: /thesis/
 ---
 
 # This is for other
