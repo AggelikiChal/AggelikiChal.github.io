@@ -4,11 +4,13 @@ permalink: /publications/
 
 # Publications
 
-This is a list of my publications.
+This is a list of my publications. 
 
 
 
-## Conference Proceedings & Journal Articles
+## Unpublished
+
+- Antonis Achilleos and Aggeliki Chalki. Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes. <A href="https://arxiv.org/abs/2304.10334">link to arxiv</A>
 
 - A. Chalkis, V. Fisikopoulos, E. Tsigaridas, H. Zafeiropoulos - <A href="https://drops.dagstuhl.de/opus/volltexte/2021/13820/">Geometric algorithms for sampling the flux space of metabolic networks</A>, Proceedings of the 37th International Symposium on Computational Geometry, 2021.
 - A. Chalkis, E. Christoforou, I.Z. Emiris, T. Dalamagas - [Modeling asset allocations and a new portfolio performance score](https://link.springer.com/article/10.1007/s42521-021-00040-8), Digital Finance, Springer, 2021.
