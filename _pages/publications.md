@@ -2,9 +2,9 @@
 permalink: /publications/
 ---
 
-## <font size="12"> Conference Proceedings & Journal articles </font>
+## Conference Proceedings & Journal articles 
 
-- Antonis Antonopoulos, Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. Completeness, approximability and exponential time results for counting problems with easy decision version. Theoretical Computer Science 915: 55-73 (2022). <A href="https://www.sciencedirect.com/science/article/pii/S0304397522001256?via%3Dihub">link to paper</A>
+- Antonis Antonopoulos, Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. **Completeness, approximability and exponential time results for counting problems with easy decision version**. Theoretical Computer Science 915: 55-73 (2022). <A href="https://www.sciencedirect.com/science/article/pii/S0304397522001256?via%3Dihub">link to paper</A>
 
 -	Eleni Bakali, Aggeliki Chalki, Andreas Göbel, Aris Pagourtzis, and Stathis Zachos. Guest column: A panorama of counting problems the decision version of which is in P. SIGACT News 53(3): 46-68 (2022). <A href="https://dl.acm.org/doi/10.1145/3561064.3561072">link to paper</A>
 
@@ -18,9 +18,10 @@ Conference on Theory and Applications of Models of Computation, 2020. <A href="h
 - Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. Completeness results for counting problems with easy decision. Proceedings of the  10th International Conference in Algorithms and Complexity, 2017. <A href="https://link.springer.com/chapter/10.1007/978-3-319-57586-5_6">link to paper</A>
 
 
-## <font size="12"> Preprints and submissions </font>
+## Preprints and submissions 
 
 - Antonis Achilleos and Aggeliki Chalki. Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes. <A href="https://arxiv.org/abs/2304.10334">link to arxiv</A>
+
 - Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. On the power of counting the total number of computation paths of NPTMs.
 
 
