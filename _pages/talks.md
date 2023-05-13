@@ -11,6 +11,8 @@ permalink: /talks/
 - Descriptive complexity of hard counting problems the decision version of which is easy, _17th Athens Colloquium on Algorithms and Complexity (ACAC’22)_.
  
 - Descriptive complexity for hard counting problems with easy decision versions, _Logic Colloquium (LC’22)_.
+
+- Structural and descriptive complexity of hard counting problems with easy decision version, _Icelandic Center of Excellence in Theoretical Computer Science (ICE-TCS seminar)_.
  
 - Characterizations and approximability of hard counting classes below #P, _The New York Colloquium on Algorithms and Complexity (NYCAC 2021)_.
  
