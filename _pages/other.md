@@ -5,18 +5,18 @@ permalink: /theses/
 ## Theses
 
 - <A href="https://corefiles.corelab.ntua.gr/index.php/s/fVgdpMSPYHgTc5x"> PhD Thesis </A>
-<\br>
+</br>
 _Title_: On structural and descriptive complexity of hard countingproblems the decision version of which is easy
-<\br>
+</br>
 _Supervisor_: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris Pagourtzis</A>
-<\br><\br>
+</br></br>
 - <A href="https://corefiles.corelab.ntua.gr/index.php/s/fVgdpMSPYHgTc5x"> Master's Thesis </A>
 _Title_: Counting below #P:  Classes, problems and descriptive complexity
-<\br>
+</br>
 _Supervisor_: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris  Pagourtzis</A>
-<\br><\br>
+</br></br>
 - Undergraduate Diploma Thesis
-<\br>
+</br>
 _Title_: The axiom V=L in ZFC_
-<\br>
+</br>
 _Supervisor_: <A href="https://www.researchgate.net/profile/Alexander-Arvanitakis"> Alexander Arvanitakis </A>
