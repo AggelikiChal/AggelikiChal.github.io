@@ -9,7 +9,7 @@ permalink: /theses/
 _Title_: On structural and descriptive complexity of hard countingproblems the decision version of which is easy
 </br>
 _Supervisor_: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris Pagourtzis</A>
-</br></br>
+
 - <A href="https://corefiles.corelab.ntua.gr/index.php/s/fVgdpMSPYHgTc5x"> Master's Thesis </A>
 _Title_: Counting below #P:  Classes, problems and descriptive complexity
 </br>
