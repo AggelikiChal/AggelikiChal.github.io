@@ -2,4 +2,6 @@
 permalink: /theses/
 ---
 
-# This is for other
+## Theses
+
+- PhD Thesis
