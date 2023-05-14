@@ -18,6 +18,12 @@ permalink: /teaching/
 > Teaching assistant (graduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
  
+ 
+> <A href="https://courses.corelab.ntua.gr/course/view.php?id=73">Dynamic Epistemic Logic</A> (spring semester of 2021)   
+> Teaching assistant (graduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
+> <A href="https://corefiles.corelab.ntua.gr/index.php/s/J9odxw54aLiRExi">Here</A> are the slides I created and used for the course on Modal Logic. They form a subset of the course material.
+
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=41">Modal Logic</A> (spring semester of 2019)   
 > Teaching assistant and course material creator (graduate level)  
