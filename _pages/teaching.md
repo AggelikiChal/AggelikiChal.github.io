@@ -21,7 +21,8 @@ permalink: /teaching/
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=41">Modal Logic</A> (spring semester of 2019)   
 > Teaching assistant and course material creator (graduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
+> The slides of the course can be found <A href="https://corefiles.corelab.ntua.gr/index.php/s/J9odxw54aLiRExi">here</A>.
 
 
 > <A href="http://users.uop.gr/~ckoutras/Mathematical-Logic-mpla-2016.html">Mathematical Logic</A> (spring semester of 2016)   
