@@ -19,5 +19,5 @@ Assisted in organizing <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>,
 
 ## Professional Development in Teaching: Attended Courses
 
-- 2023: Introduction to teaching and learning in higher education, _Reykjavik University_
+- 2023: Introduction to teaching and learning in higher education, _<A href="https://en.ru.is/">Reykjavik University</A>_
 - 2017: Disability inclusion in education, _<A href="https://coursity.gr/">Coursity online platform</A>_
