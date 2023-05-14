@@ -18,8 +18,8 @@ permalink: /teaching/
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=79">Computational Complexity</A> (fall semesters of 2015--2021)   
 > Teaching assistant (graduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA
-> <A href="https://corefiles.corelab.ntua.gr/index.php/s/Ri7jsaszjGtW58j">Here</A> are the slides I created, utilized, and taught for the course. They form a subset of the course material. 
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
+
 
 
 ## Courses on Logic in Computer Science
