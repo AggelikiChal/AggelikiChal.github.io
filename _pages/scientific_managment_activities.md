@@ -7,7 +7,7 @@ permalink: /scientific_managment_and_activities/
 ## volesti
 
 
-## Google Summer of Code
+
 
 ## <img src="/assets/images/GSoC.png" width="60" height="60" alt="photo" class="float-left" /> Google 
 
