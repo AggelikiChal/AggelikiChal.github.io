@@ -49,7 +49,7 @@ permalink: /teaching/
 
 ## Courses on Computability and Algorithms
 
-> <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Modles</A> (spring semester of 2021)   
+> <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Models</A> (spring semester of 2021)   
 > Teaching assistant (undergraduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
