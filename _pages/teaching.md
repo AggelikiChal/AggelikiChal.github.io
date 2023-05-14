@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 ---
-## Teaching
+# Teaching
 
 ## Courses on Complexity
 ---
