@@ -20,7 +20,7 @@ permalink: /teaching/
  
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=41">Modal Logic</A> (spring semester of 2019)   
-> Teaching assistant (graduate level)  
+> Teaching assistant and course material creator (graduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 
