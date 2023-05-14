@@ -2,7 +2,7 @@
 permalink: /talks/
 ---
 
-## Public Talks
+# Talks
 
 - A logical characterization of self-reducible counting problems the decision version of which is easy, _The New York Colloquium on Algorithms and Complexity (NYCAC 2022)_.
 
