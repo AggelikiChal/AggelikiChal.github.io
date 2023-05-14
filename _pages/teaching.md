@@ -3,12 +3,14 @@ permalink: /teaching/
 ---
 # Teaching
 
-## Courses on Complexity
+## Course on Discrete Mathematics
 
 > Discrete Math II (spring semester of 2023)  
 > Teaching assistant (undergraduate level)  
 > <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University  
 
+
+## Courses on Complexity
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=83">Counting Complexity</A> (spring semester of 2022)   
 > Teaching assistant and course material creator (graduate level)  
