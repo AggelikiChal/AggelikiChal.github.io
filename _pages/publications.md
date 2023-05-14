@@ -2,6 +2,8 @@
 permalink: /publications/
 ---
 
+<h1> Publications </h1>
+
 <h2> Conference Proceedings & Journal articles </h2>
 
 - Antonis Antonopoulos, Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. **Completeness, approximability and exponential time results for counting problems with easy decision version**. Theoretical Computer Science 915: 55-73 (2022). <A href="https://www.sciencedirect.com/science/article/pii/S0304397522001256?via%3Dihub">link to paper</A>
