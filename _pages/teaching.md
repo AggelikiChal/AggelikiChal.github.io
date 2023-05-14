@@ -34,6 +34,12 @@ permalink: /teaching/
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 
+> <A href="https://courses.corelab.ntua.gr/course/view.php?id=21">Algorithms and Complexity</A> (fall semester of 2017)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
+
+
+
 
 
 
