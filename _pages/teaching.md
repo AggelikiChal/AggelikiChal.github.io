@@ -3,6 +3,9 @@ permalink: /teaching/
 ---
 ## Teaching
 
+## Courses on Complexity
+---
+
 > Discrete Math II (spring semester of 2023)  
 > Teaching assistant (undergraduate level)  
 > <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University  
@@ -17,7 +20,10 @@ permalink: /teaching/
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=79">Computational Complexity</A> (fall semesters of 2015--2021)   
 > Teaching assistant (graduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
- 
+
+
+## Courses on Logic in Computer Science
+---
  
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=73">Dynamic Epistemic Logic</A> (spring semester of 2021)   
 > Teaching assistant (graduate level)  
@@ -36,10 +42,19 @@ permalink: /teaching/
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
 > The slides of the course can be found <A href="https://corefiles.corelab.ntua.gr/index.php/s/J9odxw54aLiRExi">here</A>.
 
+## Course on Mathematical Logic
+---
 
 > <A href="http://users.uop.gr/~ckoutras/Mathematical-Logic-mpla-2016.html">Mathematical Logic</A> (spring semester of 2016)   
 > Teaching assistant (graduate level)  
 > <A href="http://mpla.math.uoa.gr/en/">Graduate program in Logic, Algorithms, and Computation</A>, NKUA 
+
+## Courses on Computability and Algorithms
+---
+
+> <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Modles</A> (spring semester of 2021)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=30">Foundations of Computer Science</A> (fall semester of 2020)   
