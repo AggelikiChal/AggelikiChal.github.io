@@ -4,11 +4,11 @@ permalink: /theses/
 
 ## Theses
 
-- <A href="https://corefiles.corelab.ntua.gr/index.php/s/fVgdpMSPYHgTc5x"> PhD Thesis </A> \
+- <A href="https://corefiles.corelab.ntua.gr/index.php/apps/files/?dir=/Theses&fileid=64976#pdfviewer"> PhD Thesis </A> \
 <i> Title </i>: On structural and descriptive complexity of hard countingproblems the decision version of which is easy \
 <i> Supervisor </i>: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris Pagourtzis</A> 
 
-- <A href="https://corefiles.corelab.ntua.gr/index.php/s/fVgdpMSPYHgTc5x"> Master's Thesis </A> \
+- <A href="https://corefiles.corelab.ntua.gr/index.php/apps/files/?dir=/Theses&fileid=64976#pdfviewer"> Master's Thesis </A> \
 <i> Title </i>: Counting below #P:  Classes, problems and descriptive complexity \
 <i> Supervisor </i>: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris  Pagourtzis</A> 
 
