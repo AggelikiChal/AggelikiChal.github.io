@@ -24,7 +24,7 @@ permalink: /teaching/
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 
-> <A href="https://courses.corelab.ntua.gr/course/view.php?id=41">Mathematical Logic</A> (spring semester of 2016)   
+> <A href="http://users.uop.gr/~ckoutras/Mathematical-Logic-mpla-2016.html">Mathematical Logic</A> (spring semester of 2016)   
 > Teaching assistant (graduate level)  
 > <A href="http://mpla.math.uoa.gr/en/">Graduate program in Logic, Algorithms, and Computation</A>, NKUA 
 
