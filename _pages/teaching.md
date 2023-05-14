@@ -3,9 +3,10 @@ permalink: /teaching/
 ---
 ## Teaching
 
->> Discrete Math II (2023)
->> Teaching assistant (undergraduate level) 
->> <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University
+> Discrete Math II (2023)  
+> Teaching assistant (undergraduate level)  
+> <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University  
+
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=83">Counting Complexity </A> (2022) 
 > Teaching assistant and course material creator (graduate level) 
