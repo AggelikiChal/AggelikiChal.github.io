@@ -11,4 +11,4 @@ I had the privilege of co-organizing a logic study group with <A href="http://ww
 - Erich Grädel, Wolfgang Thomas, and Thomas Wilke. _Automata, Logics, and Infinite Games_. Springer, 2002.
 - Johan van Benthem. _Logics in Games_. MIT Press, 2014.
 - Neil Immerman. _Descriptive Complexity_. Springer, 1999.
-- 
+- Melvin Chris Fitting and Richard L. Mendelsohn. _First-Order Modal Logic_. Kluwer Academic Publishers, 1998.
