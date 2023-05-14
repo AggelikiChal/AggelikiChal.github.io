@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 ---
+## Teaching
 
 - Discrete Math II (2023)\
 Teaching assistant (undergraduate level) \
