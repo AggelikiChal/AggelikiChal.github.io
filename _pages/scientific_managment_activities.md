@@ -6,7 +6,7 @@ permalink: /scientific_managment_and_activities/
 
 ## Project experience  
 - Jan 2021--Jan 2023: <A href="https://corelab.ntua.gr/paradestruct/">Complexity and approximability of counting problems through structural, descriptive, and parameterized methods (ParaDeStruct)</A>
-- Oct 2022--today: “Open Problems in the Equational Logic of Processes (OPEL)”
+- Oct 2022--today: Open Problems in the Equational Logic of Processes (OPEL)
 
 ## Logic study group
 
