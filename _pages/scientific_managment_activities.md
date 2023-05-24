@@ -22,8 +22,8 @@ I had the privilege of co-organizing a logic study group with <A href="http://ww
 Assisted in organizing <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>, <A href="http://www.corelab.ntua.gr/acac19/">ACAC'19</A>, <A href="https://www.corelab.ntua.gr/acac21/">ACAC'21</A>, <A href="https://www.corelab.ntua.gr/acac22/">ACAC'22</A>, <A href="http://www.sci.brooklyn.cuny.edu/~zachos/nycac_2021/">NYCAC'21</A>, <A href="http://www.sci.brooklyn.cuny.edu/~zachos/nycac_2022/">NYCAC'22</A>, <A href="https://www.corelab.ntua.gr/athecrypt2018/">AtheCrypt 2018</A>, <A href="https://www.corelab.ntua.gr/athecrypt2019/">AtheCrypt 2019</A>, <A href="https://www.corelab.ntua.gr/athecrypt2020/">AtheCrypt 2020</A>, <A href="https://www.corelab.ntua.gr/athecrypt2021/">AtheCrypt 2021</A>, <A href="https://www.corelab.ntua.gr/athecrypt2022/">AtheCRYPT 2022</A>, <A href="https://www.corelab.ntua.gr/fct2021/">FCT'21</A>, and <A href="http://www.corelab.ntua.gr/ciac2017/">CIAC 2017</A> organized by <A href="https://www.corelab.ntua.gr/index.html">CoReLab</A>, ECE-NTUA.
 
 ## Student supervision
-- ''Applications of logic to algorithmic results for counting problems'', Diploma Thesis by Sotiris Kanellopoulos (2022).  
-    National Technical University of Athens.
+- ''Applications of logic to algorithmic results for counting problems'', Diploma Thesis by Sotiris Kanellopoulos, _National Technical University of Athens_ (2022).  
+    
 
 ## Professional Development in Teaching: Attended Courses
 
