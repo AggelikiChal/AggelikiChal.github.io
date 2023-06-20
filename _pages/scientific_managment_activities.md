@@ -33,5 +33,5 @@ Assisted in organizing <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>,
 
 ## Attended Summer Schools
 
-- <A href="https://epit2023.sciencesconf.org/">EPIT 2023:</A> Le Kaléidoscope de la Complexité
+<A href="https://epit2023.sciencesconf.org/">EPIT 2023:</A> Le Kaléidoscope de la Complexité
 
