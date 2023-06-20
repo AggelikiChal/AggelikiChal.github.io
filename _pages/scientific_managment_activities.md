@@ -23,7 +23,7 @@ Assisted in organizing <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>,
 
 ## Student supervision
 
-''Applications of logic to algorithmic results for counting problems'', Diploma Thesis by Sotiris Kanellopoulos, _National Technical University of Athens_ (2022).  
+"Applications of logic to algorithmic results for counting problems", Diploma Thesis by Sotiris Kanellopoulos, _National Technical University of Athens_ (2022).  
     
 
 ## Professional Development in Teaching: Attended Courses
