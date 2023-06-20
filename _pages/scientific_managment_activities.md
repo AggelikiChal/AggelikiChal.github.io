@@ -29,3 +29,8 @@ Assisted in organizing <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>,
 
 - 2023: Introduction to teaching and learning in higher education, _<A href="https://en.ru.is/">Reykjavik University</A>_
 - 2017: Disability inclusion in education, _<A href="https://coursity.gr/">Coursity online platform</A>_
+
+## Attended Summer Schools
+
+- href="https://epit2023.sciencesconf.org/">EPIT 2023:</A> Le Kaléidoscope de la Complexité
+
