@@ -24,6 +24,6 @@ Conference on Theory and Applications of Models of Computation, 2020. <A href="h
 
 - Antonis Achilleos and Aggeliki Chalki. **Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes**. <A href="https://arxiv.org/abs/2304.10334">link to arxiv</A>
 
-- Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**.
+- Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**. <A href="https://arxiv.org/abs/2306.11614">link to arxiv</A>
 
 
