@@ -4,6 +4,8 @@ permalink: /talks/
 
 # Talks
 
+- The complexity of deciding characteristic formulae in van Glabbeek's branching time spectrum, _Third International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2023)_.
+
 - Counting computations with formulae: Logical characterisations of counting complexity classes, _The 48th International
 Symposium on Mathematical Foundations of Computer Science (MFCS 2023)_.
 
