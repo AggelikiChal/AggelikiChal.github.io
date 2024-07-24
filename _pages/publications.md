@@ -6,7 +6,9 @@ permalink: /publications/
 
 <h2> Conference Proceedings & Journal articles </h2>
 
-- Antonis Achilleos and Aggeliki Chalki. **Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes**. Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science, MFCS 2023. <A href="https://drops.dagstuhl.de/opus/volltexte/2023/18541/pdf/LIPIcs-MFCS-2023-7.pdf">link to paper</A>
+- Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**. <A href="https://link.springer.com/chapter/10.1007/978-981-97-2340-9_18">link to paper</A>, <A href="https://arxiv.org/abs/2306.11614">link to arxiv</A>
+
+- Antonis Achilleos and Aggeliki Chalki. **Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes**. Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science, MFCS 2023. <A href="https://drops.dagstuhl.de/opus/volltexte/2023/18541/pdf/LIPIcs-MFCS-2023-7.pdf">link to paper</A>, <A href="https://arxiv.org/abs/2304.10334">link to arxiv</A>
 
 - Antonis Antonopoulos, Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. **Completeness, approximability and exponential time results for counting problems with easy decision version**. Theoretical Computer Science 915: 55-73 (2022). <A href="https://www.sciencedirect.com/science/article/pii/S0304397522001256?via%3Dihub">link to paper</A>
 
@@ -24,6 +26,8 @@ Conference on Theory and Applications of Models of Computation, 2020. <A href="h
 
 <h2> Preprints and submissions </h2>
 
-- Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**. <A href="https://arxiv.org/abs/2306.11614">link to arxiv</A>
+- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**.  <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
+
+
 
 
