@@ -45,5 +45,7 @@ I had the privilege of co-organizing a logic study group with <A href="http://ww
 
 ## Attended Summer Schools
 
-<A href="https://epit2023.sciencesconf.org/">EPIT 2023:</A> Le Kaléidoscope de la Complexité
+-<A href="https://scool24.github.io/NLS/">NLS 2024:</A> Fifth Nordic Logic Summer School
+
+-<A href="https://epit2023.sciencesconf.org/">EPIT 2023:</A> Le Kaléidoscope de la Complexité
 
