@@ -19,8 +19,11 @@ I had the privilege of co-organizing a logic study group with <A href="http://ww
 
 ## Professional service
 
-Assisted in organizing 
+- Member of the PC for GandALF 2024.
+  
+- Assisted in organizing 
 <p>
+- <A href="https://scool24.github.io/">Reykjavik Summer of Cool Logic 2024 (SCooL 2024)</A>
 - <A href="https://www.corelab.ntua.gr/fct2021/">FCT'21</A> and <A href="http://www.corelab.ntua.gr/ciac2017/">CIAC 2017</A>, and
     <br>
 -  <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>, <A href="http://www.corelab.ntua.gr/acac19/">ACAC'19</A>, <A href="https://www.corelab.ntua.gr/acac21/">ACAC'21</A>, <A href="https://www.corelab.ntua.gr/acac22/">ACAC'22</A>, <A href="http://www.sci.brooklyn.cuny.edu/~zachos/nycac_2021/">NYCAC'21</A>, <A href="http://www.sci.brooklyn.cuny.edu/~zachos/nycac_2022/">NYCAC'22</A>, <A href="https://www.corelab.ntua.gr/athecrypt2018/">AtheCrypt 2018</A>, <A href="https://www.corelab.ntua.gr/athecrypt2019/">AtheCrypt 2019</A>, <A href="https://www.corelab.ntua.gr/athecrypt2020/">AtheCrypt 2020</A>, <A href="https://www.corelab.ntua.gr/athecrypt2021/">AtheCrypt 2021</A>, and <A href="https://www.corelab.ntua.gr/athecrypt2022/">AtheCRYPT 2022</A>
@@ -29,8 +32,10 @@ organized by <A href="https://www.corelab.ntua.gr/index.html">CoReLab</A>, ECE-N
 
 ## Student supervision
 
-"Applications of logic to algorithmic results for counting problems", Diploma Thesis by Sotiris Kanellopoulos, _National Technical University of Athens_ (2022).  
-    
+- "Applications of logic to algorithmic results for counting problems", Diploma Thesis by Sotiris Kanellopoulos, _National Technical University of Athens_ (2022).
+  
+-  "P versus NP in descriptive complexity and meta-algorithmic results", Diploma Thesis by Giorgos Kotzias, _National Technical University of Athens_ (soon to be submitted).
+
 
 ## Professional Development in Teaching: Attended Courses
 
