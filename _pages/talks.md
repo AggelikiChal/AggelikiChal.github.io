@@ -4,6 +4,8 @@ permalink: /talks/
 
 # Talks
 
+- The complexity of deciding characteristic formulae, _The 14th Panhellenic Logic Symposium (PLS 2024)_.
+
 - The complexity of deciding characteristic formulae in van Glabbeek's branching time spectrum, _Third International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2023)_.
 
 - Counting computations with formulae: Logical characterisations of counting complexity classes, _The 48th International
