@@ -21,7 +21,7 @@ Symposium on Mathematical Foundations of Computer Science (MFCS 2023)_.
  
 - Descriptive complexity for hard counting problems with easy decision versions, _Logic Colloquium (LC’22)_.
 
-- Structural and descriptive complexity of hard counting problems with easy decision version, _Icelandic Center of Excellence in Theoretical Computer Science (ICE-TCS seminar)_.
+- Structural and descriptive complexity of hard counting problems with easy decision version, _Icelandic Center of Excellence in Theoretical Computer Science (ICE-TCS seminar, Reykjavik University)_.
  
 - Characterizations and approximability of hard counting classes below #P, _The New York Colloquium on Algorithms and Complexity (NYCAC 2021)_.
  
