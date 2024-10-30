@@ -6,7 +6,9 @@ permalink: /publications/
 
 <h2> Conference Proceedings & Journal articles </h2>
 
-- Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**. <A href="https://link.springer.com/chapter/10.1007/978-981-97-2340-9_18">link to paper</A>, <A href="https://arxiv.org/abs/2306.11614">link to arxiv</A>
+- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**.  accepted at <A href="https://csl2025.github.io/">CSL 2025</A>, <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
+
+- Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**. Proceedings of the 18th Annual Conference on Theory and Applications of Models of Computation. <A href="https://link.springer.com/chapter/10.1007/978-981-97-2340-9_18">link to paper</A>, <A href="https://arxiv.org/abs/2306.11614">link to arxiv</A>
 
 - Antonis Achilleos and Aggeliki Chalki. **Counting Computations with Formulae: Logical Characterisations of Counting Complexity Classes**. Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science, MFCS 2023. <A href="https://drops.dagstuhl.de/opus/volltexte/2023/18541/pdf/LIPIcs-MFCS-2023-7.pdf">link to paper</A>, <A href="https://arxiv.org/abs/2304.10334">link to arxiv</A>
 
@@ -24,9 +26,9 @@ Conference on Theory and Applications of Models of Computation, 2020. <A href="h
 - Eleni Bakali, Aggeliki Chalki, Petros Pantavos, Aris Pagourtzis, and Stathis Zachos. **Completeness results for counting problems with easy decision**. Proceedings of the  10th International Conference in Algorithms and Complexity, 2017. <A href="https://link.springer.com/chapter/10.1007/978-3-319-57586-5_6">link to paper</A>
 
 
-<h2> Preprints and submissions </h2>
 
-- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**.  accepted at <A href="https://csl2025.github.io/">CSL 2025</A>, <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
+
+
 
 
 
