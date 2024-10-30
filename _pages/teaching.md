@@ -7,8 +7,27 @@ permalink: /teaching/
 
 > Discrete Math II (spring semester of 2023)  
 > Teaching assistant (undergraduate level)  
-> <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University  
+> <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University
+ 
+## Courses on Computability and Algorithms
 
+> Theory of Computation (fall semester of 2024)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University
+
+> <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Models</A> (spring semester of 2021)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
+
+
+> <A href="https://courses.corelab.ntua.gr/course/view.php?id=30">Foundations of Computer Science</A> (fall semester of 2020)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
+
+
+> <A href="https://courses.corelab.ntua.gr/course/view.php?id=21">Algorithms and Complexity</A> (fall semester of 2017)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 ## Courses on Complexity
 
@@ -49,21 +68,7 @@ permalink: /teaching/
 > Teaching assistant (graduate level)  
 > <A href="http://mpla.math.uoa.gr/en/">Graduate program in Logic, Algorithms, and Computation</A>, NKUA 
 
-## Courses on Computability and Algorithms
 
-> <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Models</A> (spring semester of 2021)   
-> Teaching assistant (undergraduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
-
-
-> <A href="https://courses.corelab.ntua.gr/course/view.php?id=30">Foundations of Computer Science</A> (fall semester of 2020)   
-> Teaching assistant (undergraduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
-
-
-> <A href="https://courses.corelab.ntua.gr/course/view.php?id=21">Algorithms and Complexity</A> (fall semester of 2017)   
-> Teaching assistant (undergraduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 
 
