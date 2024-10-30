@@ -26,7 +26,7 @@ Conference on Theory and Applications of Models of Computation, 2020. <A href="h
 
 <h2> Preprints and submissions </h2>
 
-- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**.  <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
+- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**.  accepted at <A href="https://csl2025.github.io/">CSL 2025</A>, <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
 
 
 
