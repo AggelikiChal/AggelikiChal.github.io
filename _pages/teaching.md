@@ -69,9 +69,9 @@ permalink: /teaching/
 > <A href="http://mpla.math.uoa.gr/en/">Graduate program in Logic, Algorithms, and Computation</A>, National and Kapodistrian University of Athens 
 
 
-## Course on Introduction to Programming
+## Course on Programming
 
-> <A href="https://courses.softlab.ntua.gr/progintro/2014b/">Introduction to Programming </A> (fall semesters of 2014, 2015, and 2016)   
+> <A href="https://courses.softlab.ntua.gr/progintro/2014b/">Introduction to Programming</A> (fall semesters of 2014, 2015, and 2016)   
 > Teaching assistant (undergraduate level)  
 > <A href="http://www.softlab.ntua.gr/">Software Engineering Laboratory</A>, NTUA
 > Assisting students during lab sessions
