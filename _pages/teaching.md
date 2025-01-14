@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ## Course on Discrete Mathematics
 
-> Discrete Math II (spring semester of 2023)  
+> Discrete Math II (spring semester of 2023 and 2025)  
 > Teaching assistant (undergraduate level)  
 > <A href="https://en.ru.is/st/dcs/">Department of Computer Science</A>, Reykjavik University
  
