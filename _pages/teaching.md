@@ -17,7 +17,7 @@ permalink: /teaching/
 
 > <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Models</A> (spring semester of 2021)   
 > Teaching assistant (undergraduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, National Technical University of Athens (NTUA) 
 
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=30">Foundations of Computer Science</A> (fall semester of 2020)   
@@ -66,10 +66,15 @@ permalink: /teaching/
 
 > <A href="http://users.uop.gr/~ckoutras/Mathematical-Logic-mpla-2016.html">Mathematical Logic</A> (spring semester of 2016)   
 > Teaching assistant (graduate level)  
-> <A href="http://mpla.math.uoa.gr/en/">Graduate program in Logic, Algorithms, and Computation</A>, NKUA 
+> <A href="http://mpla.math.uoa.gr/en/">Graduate program in Logic, Algorithms, and Computation</A>, National and Kapodistrian University of Athens 
 
 
+## Course on Introduction to Programming
 
+> <A href="https://courses.softlab.ntua.gr/progintro/2014b/">Introduction to Programming </A> (fall semesters of 2014, 2015, and 2016)   
+> Teaching assistant (undergraduate level)  
+> <A href="http://www.softlab.ntua.gr/">Software Engineering Laboratory</A>, NTUA
+> Assisting students during lab sessions
 
 
 
