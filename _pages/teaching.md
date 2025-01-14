@@ -73,7 +73,7 @@ permalink: /teaching/
 
 > <A href="https://courses.softlab.ntua.gr/progintro/2014b/">Introduction to Programming</A> (fall semesters of 2014, 2015, and 2016)   
 > Teaching assistant (undergraduate level)  
-> <A href="http://www.softlab.ntua.gr/">Software Engineering Laboratory</A>, NTUA  
+> <A href="http://www.softlab.ntua.gr/">Software Engineering Laboratory</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
 > Assisting students during lab sessions
 
 
