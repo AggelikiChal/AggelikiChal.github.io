@@ -8,7 +8,7 @@ permalink: /theses/
 <i> Title </i>: On structural and descriptive complexity of hard counting problems the decision version of which is easy \
 <i> Supervisor </i>: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris Pagourtzis</A> 
 
-- <A href="https://corefiles.corelab.ntua.gr/index.php/s/MuSqFhxiE9BtzlS"> Master's Thesis </A> \
+-  Master's Thesis \
 <i> Title </i>: Counting below #P:  Classes, problems and descriptive complexity \
 <i> Supervisor </i>: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris  Pagourtzis</A> 
 
