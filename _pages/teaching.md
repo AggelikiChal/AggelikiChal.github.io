@@ -26,17 +26,21 @@ permalink: /teaching/
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA 
 
 
-> <A href="https://courses.corelab.ntua.gr/course/view.php?id=21">Algorithms and Complexity</A> (fall semester of 2017)   
-> Teaching assistant (undergraduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA
-
 > <A href="https://old.corelab.ntua.gr/courses/advtcs/index_2016_17.html">Advanced Topics on Algorithms (and Complexity)</A> (spring semester of 2017)   
 > Teaching assistant (graduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA
 
-> <A href="https://old.corelab.ntua.gr/courses/netalg/index.2014-15.html">Network Algorithm and Complexity</A> (spring semester of 2015)   
-> Teaching assistant (graduate level)  
+
+> <A href="https://courses.corelab.ntua.gr/course/view.php?id=21">Algorithms and Complexity</A> (fall semester of 2017)   
+> Teaching assistant (undergraduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA
+
+
+> <A href="https://old.corelab.ntua.gr/courses/netalg/index.2014-15.html">Network Algorithm and Complexity</A> (spring semester of 2015)   
+> Teaching assistant (undergraduate level)  
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA
+
+
 
 ## Courses on Complexity
 
