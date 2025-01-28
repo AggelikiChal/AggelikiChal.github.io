@@ -17,7 +17,7 @@ permalink: /teaching/
 
 > <A href="http://old.corelab.ntua.gr/courses/afl/">Automata and Computational Models</A> (spring semester of 2021)   
 > Teaching assistant (undergraduate level)  
-> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, National Technical University of Athens (NTUA)
+> <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, National Technical University of Athens (NTUA)  
 > At the end of the course, we included a lecture on ω-automata, tree automata, and Ehrenfeucht-Fra&iuml;ssé games, which I taught usnig <A href="https://drive.google.com/file/d/1JdMz3v7k9KNjhQ-wXcaDWUf5W9pz8ib2/view?usp=sharing">these slides</A>.
 
 
