@@ -52,7 +52,7 @@ permalink: /teaching/
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=73">Dynamic Epistemic Logic</A> (spring semester of 2021)   
 > Teaching assistant (graduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
-> <A href="https://corefiles.corelab.ntua.gr/index.php/s/KcyZ5uWAwlANQJC">Here</A> are the slides I created, utilized, and taught for the course. They form a subset of the course material.
+> <A href="https://drive.google.com/file/d/1W_qw2jN2hHxi2IUtbRk7PlurJXWEO_hl/view?usp=drive_link">Here</A> are the slides I created, utilized, and taught for the course. They form a subset of the course material.
 
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=55">Descriptive Complexity</A> (spring semester of 2020)   
