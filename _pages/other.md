@@ -4,7 +4,7 @@ permalink: /theses/
 
 ## Theses
 
-- <A href="https://corefiles.corelab.ntua.gr/index.php/s/yepUTSmL1t7ghAR"> PhD Thesis </A> \
+- <A href="https://drive.google.com/file/d/14Wg9qn4WLUeXjg7BulkALZs_cMPUh2zV/view?usp=sharing"> PhD Thesis </A> \
 <i> Title </i>: On structural and descriptive complexity of hard counting problems the decision version of which is easy \
 <i> Supervisor </i>: prof. <A href="http://users.softlab.ntua.gr/~pagour/"> Aris Pagourtzis</A> 
 
