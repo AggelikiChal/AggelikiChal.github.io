@@ -58,7 +58,7 @@ permalink: /teaching/
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=55">Descriptive Complexity</A> (spring semester of 2020)   
 > Teaching assistant (graduate level)  
 > <A href="https://corelab.ntua.gr/">Computation and Reasoning Laboratoty</A> of <A href="https://www.ece.ntua.gr/en">ECE</A>, NTUA  
-> <A href="https://corefiles.corelab.ntua.gr/index.php/s/MWXDXV6aLUWbYBC">Here</A> are the slides I created, utilized, and taught for the course. They form a subset of the course material.
+> <A href="https://drive.google.com/file/d/1oIs8fAIEPBlbh0Vk74AJ3YmiXbvFtMnO/view?usp=sharing">Here</A> are the slides I created, utilized, and taught for the course. They form a subset of the course material.
 
 
 > <A href="https://courses.corelab.ntua.gr/course/view.php?id=41">Modal Logic</A> (spring semester of 2019)   
