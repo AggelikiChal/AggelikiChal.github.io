@@ -26,7 +26,7 @@ permalink: /scientific_managment_and_activities/
 ## Project experience  
 
 - Jan 2021–Jan 2023: Member of the research team, project <A href="https://corelab.ntua.gr/paradestruct/">ParaDeStruct</A>
-- Oct 2022–today: Member of the research team, projects <A href="https://icetcs.github.io/movemnt/">Movemnt</A> and OPEL
+- Oct 2022–today: Member of the research team, projects <A href="https://icetcs.github.io/movemnt/">Movemnt</A> and OPEL (Open Problems in the Equational Logic of Processes)
 
 ## Logic study group
 
