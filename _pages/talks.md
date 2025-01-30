@@ -29,11 +29,13 @@ Symposium on Mathematical Foundations of Computer Science (MFCS 2023)_.
 
 - Characterizations and approximability of hard counting classes below #P, _The 16th Annual Conference on Theory and Applications of Models of Computation (TAMC 2020)_.
 
+- Descriptive complexity of classes of easy-to-decide counting problems, _The 20th International Workshop on Logic and Computational Complexity (LCC’19)_.
+
   ## Upcoming Talks
 
 - The complexity of deciding characteristic formulae in van Glabbeek’s branching-time spectrum. _The 33rd EACSL Annual Conference on Computer Science Logic (CSL 2025)_.
 
-- Descriptive complexity of classes of easy-to-decide counting problems, _The 20th International Workshop on Logic and Computational Complexity (LCC’19)_.
+
 
 
 
