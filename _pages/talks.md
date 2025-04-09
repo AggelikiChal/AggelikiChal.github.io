@@ -4,6 +4,8 @@ permalink: /talks/
 
 # Talks
 
+- The complexity of characteristic formulae, _Seminar on Theoretical Computer Science – Formal Methods, Departments of Informatics and Mathematics, AUTh_.
+
 - The complexity of deciding characteristic formulae, _The 14th Panhellenic Logic Symposium (PLS 2024)_.
 
 - On the power of counting the total number of computation paths of NPTMs, _The 18th Annual Conference on Theory and Applications of Models of Computation (TAMC 2024)_.
