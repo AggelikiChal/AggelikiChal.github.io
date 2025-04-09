@@ -20,8 +20,7 @@ permalink: /scientific_managment_and_activities/
 ## Student supervision
 
 - "Applications of logic to algorithmic results for counting problems", Diploma Thesis by Sotiris Kanellopoulos, _National Technical University of Athens_ (2022).
-  
--  "P versus NP in descriptive complexity and meta-algorithmic results", Diploma Thesis by Giorgos Kotzias, _National Technical University of Athens_ (soon to be submitted).
+
 
 ## Project experience  
 
