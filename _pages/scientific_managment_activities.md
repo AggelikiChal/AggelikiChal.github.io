@@ -19,8 +19,8 @@ permalink: /scientific_managment_and_activities/
 
 ## Student supervision
 
-- _Applications of logic to algorithmic results for counting problems_
- Diploma Thesis by Sotiris Kanellopoulos, National Technical University of Athens (2022).
+- _Applications of logic to algorithmic results for counting problems_<br>
+  Diploma Thesis by Sotiris Kanellopoulos, National Technical University of Athens (2022).
 
 
 ## Project experience  
