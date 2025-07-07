@@ -6,6 +6,8 @@ permalink: /scientific_managment_and_activities/
 
 ## Professional service
 
+- Member of the Scientific Committee for the 15th Panhellenic Logic Symposium, which is scheduled for 2026.
+
 - Member of the PC for <A href="https://scool24.github.io/GandALF/">GandALF 2024</A>.
   
 - Assisted in organizing 
@@ -17,6 +19,9 @@ permalink: /scientific_managment_and_activities/
 -  <A href="http://www.corelab.ntua.gr/acac18/">ACAC'18</A>, <A href="http://www.corelab.ntua.gr/acac19/">ACAC'19</A>, <A href="https://www.corelab.ntua.gr/acac21/">ACAC'21</A>, <A href="https://www.corelab.ntua.gr/acac22/">ACAC'22</A>, <A href="http://www.sci.brooklyn.cuny.edu/~zachos/nycac_2021/">NYCAC'21</A>, <A href="http://www.sci.brooklyn.cuny.edu/~zachos/nycac_2022/">NYCAC'22</A>, <A href="https://www.corelab.ntua.gr/athecrypt2018/">AtheCrypt 2018</A>, <A href="https://www.corelab.ntua.gr/athecrypt2019/">AtheCrypt 2019</A>, <A href="https://www.corelab.ntua.gr/athecrypt2020/">AtheCrypt 2020</A>, <A href="https://www.corelab.ntua.gr/athecrypt2021/">AtheCrypt 2021</A>, and <A href="https://www.corelab.ntua.gr/athecrypt2022/">AtheCrypt 2022</A>
 </p>
 
+-I served as the manager of the <A href="https://corelab.ntua.gr/seminar/archive/2020-2021.html">Corelab seminar</A> from 2015 to 2022, and I have been the coordinator
+of the <A href="https://icetcs.github.io/seminar/">ICE-TCS seminar</A> from 2023 to 2025.
+
 ## Student supervision
 
 - _Applications of logic to algorithmic results for counting problems_<br>
@@ -26,7 +31,7 @@ permalink: /scientific_managment_and_activities/
 ## Project experience  
 
 - Jan 2021–Jan 2023: Member of the research team, project <A href="https://corelab.ntua.gr/paradestruct/">ParaDeStruct</A>
-- Oct 2022–today: Member of the research team, projects <A href="https://icetcs.github.io/movemnt/">Movemnt</A> and OPEL (Open Problems in the Equational Logic of Processes)
+- Oct 2022–today: Member of the research team, project <A href="https://icetcs.github.io/movemnt/">Movemnt</A>
 
 ## Logic study group
 
