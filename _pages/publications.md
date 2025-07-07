@@ -7,7 +7,7 @@ permalink: /publications/
 <h2> Conference Proceedings & Journal articles </h2>
 
 - Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic
-formulae modulo nested simulation.**.  accepted at <A href="https://gandalfsymposium.github.io/2025/">GandALF 2025</A>, <A href="https://arxiv.org/abs/2505.22277">link to arxiv</A>
+formulae modulo nested simulation**.  accepted at <A href="https://gandalfsymposium.github.io/2025/">GandALF 2025</A>, <A href="https://arxiv.org/abs/2505.22277">link to arxiv</A>
 
 - Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**. <A href="https://doi.org/10.4230/LIPIcs.CSL.2025.26">link to paper</A>, <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
 
