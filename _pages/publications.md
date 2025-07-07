@@ -6,7 +6,10 @@ permalink: /publications/
 
 <h2> Conference Proceedings & Journal articles </h2>
 
-- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**.  accepted at <A href="https://doi.org/10.4230/LIPIcs.CSL.2025.26">link to paper</A>, <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
+- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic
+formulae modulo nested simulation.**.  accepted at <A href="https://gandalfsymposium.github.io/2025/">GandALF 2025</A>, <A href="https://arxiv.org/abs/2505.22277">link to arxiv</A>
+
+- Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingólfsdóttir. **The complexity of deciding characteristic formulae in van Glabbeek's branching-time spectrum**. <A href="https://doi.org/10.4230/LIPIcs.CSL.2025.26">link to paper</A>, <A href="https://arxiv.org/abs/2405.13697">link to arxiv</A>
 
 - Eleni Bakali, Aggeliki Chalki, Sotiris Kanellopoulos, Aris Pagourtzis, and Stathis Zachos. **On the power of counting the total number of computation paths of NPTMs**. Proceedings of the 18th Annual Conference on Theory and Applications of Models of Computation. <A href="https://link.springer.com/chapter/10.1007/978-981-97-2340-9_18">link to paper</A>, <A href="https://arxiv.org/abs/2306.11614">link to arxiv</A>
 
