@@ -4,6 +4,8 @@ permalink: /talks/
 
 # Talks
 
+- The complexity of deciding characteristic formulas, _Third Congree of Greek Mathematicians (TCGM 2026)_.
+
 - The complexity of characteristic formulae, _Seminar on Theoretical Computer Science – Formal Methods (Departments of Informatics and Mathematics, Aristotle University of Thessaloniki)_.
 
 - The complexity of deciding characteristic formulae in van Glabbeek’s branching-time spectrum. _The 33rd EACSL Annual Conference on Computer Science Logic (CSL 2025)_.
