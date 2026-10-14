@@ -6,9 +6,7 @@ permalink: /scientific_managment_and_activities/
 
 ## Professional service
 
-- Member of the Scientific Committee for the 15th Panhellenic Logic Symposium, which is scheduled for 2026.
-
-- Member of the PC for <A href="https://scool24.github.io/GandALF/">GandALF 2024</A>.
+- Member of the Scientific Committee for the <A href="http://panhellenic-logic-symposium.org/15/">15th Panhellenic Logic Symposium</A>, and the Program Committee for the <A href="https://scandinavianlogic.org/2026-03-31-SLSS-and-NLSS-2026.html">Thirteenth Scandinavian Logic Symposium (SLSS 2026)</A>,  the <A href="https://kodu.ut.ee/~nester/nwpt-2026/call-for-papers.html">36th Nordic Workshop on Programming Theory (NWPT)</A>, and the <A href="https://scool24.github.io/GandALF/"> Fifteenth International Symposium on Games, Automata, Logics, and Formal Verification (GandALF 2024)</A>.
 
 - I served as the manager of the <A href="https://corelab.ntua.gr/seminar/archive/2020-2021.html">Corelab seminar</A> from 2015 to 2022, and I have been the coordinator
 of the <A href="https://icetcs.github.io/seminar/">ICE-TCS seminar</A> from 2023 to 2025.
