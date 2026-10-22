@@ -31,7 +31,8 @@ of the <A href="https://icetcs.github.io/seminar/">ICE-TCS seminar</A> from 2023
 ## Project experience  
 
 - Jan 2021–Jan 2023: Member of the research team, project <A href="https://corelab.ntua.gr/paradestruct/">ParaDeStruct</A>
-- Oct 2022–today: Member of the research team, project <A href="https://icetcs.github.io/movemnt/">Movemnt</A>
+- Oct 2022–Dec 2025: Member of the research team, project <A href="https://icetcs.github.io/movemnt/">Movemnt</A>
+- Oct 2026–present: Member of the research team, project <A href="https://icetcs.github.io/h-lo/">H.-Lo</A>
 
 ## Logic study group
 
